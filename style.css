@@ -86,4 +86,9 @@ hr {
   .box {
     width: 33%;
   }
+  .about {
+    font-family: sans-serif;
+    color: rgb(190, 216, 238);
+    margin: 20px;
+  }
 }
