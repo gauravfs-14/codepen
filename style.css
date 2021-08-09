@@ -61,6 +61,11 @@ hr {
   border: 3px solid rgb(231, 207, 207);
   background: none;
 }
+  .about {
+    font-family: sans-serif;
+    color: rgb(190, 216, 238);
+    margin: 20px;
+  }
 @media only screen and (min-width: 600px) {
   .code {
     display: block;
@@ -85,10 +90,5 @@ hr {
   }
   .box {
     width: 33%;
-  }
-  .about {
-    font-family: sans-serif;
-    color: rgb(190, 216, 238);
-    margin: 20px;
   }
 }
